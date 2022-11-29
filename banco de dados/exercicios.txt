@@ -1,0 +1,22 @@
+### Aula 1 ###
+
+Criar uma Tabela Chamada Clientes
+
+Criar Uma tabela chamada Vendas_Produtos
+Forein Key da Tabela Clientes
+
+Insert Nas tabelas Cliente e Vendas Produtos com 5 registros em cada
+
+Select com JOIN  da tabelas dos Clientes X Vendas Produtos
+
+
+
+#### AULA 2  ###
+
+Insert com sub select criando uma nova tabela Vendas_Produtos2
+
+Funções contagem dos Registro das Vendas_Produtos (contar registro)
+
+Função de Agregação(SUM) dos Registros de um de Valor Qualquer da Tabela Vendas_Produtos (somar o valor dos campos de uma tabela criado do exercicio anterior)
+
+Função de adição um valor e quantidade de um ID de registro da tabela Vendas_Produtos

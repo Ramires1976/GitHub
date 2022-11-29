@@ -1,0 +1,12 @@
+Exercicio Tuplas:
+
+Crie uma Tupla e liste as posições de memória da mesma.
+Utilize o iterador FOR para listar os valores da Tupla criada anteriormente.
+Faça a cópia de uma tupla adicionando uma nova tupla
+Tente ordenar por ordem decrescente uma tupla e teste seu principio da imutabilidade.
+
+
+Exercício de dicionários:
+
+Crie um programa de Consultar Preço dentro de 1 dicionário.
+Você irá digitar o nome do produto e ele irá ler o dicionário e imprimir em tela o preço do produto.

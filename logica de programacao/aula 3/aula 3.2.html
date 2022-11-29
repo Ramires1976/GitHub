@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt - BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>aula 3.2</title>
+</head>
+<body>
+    <script>
+
+    // for: ele possui 3 espaços de construção
+    //for: condicoes de execução (True / false); incremento de vezes
+    
+        // o tipo de variavel local e acessivel apenas no contexto do bloco de codigo (prioridade de execução) 
+
+        for(let numero = 0; numero <= 10; numero = numero +1){
+            document.write(numero+'<br>')
+        }
+
+    // ou
+
+    // o tipo de variavel global ... é utilizada para todos o codigo (acessivel para todos os itens)
+
+    let numero = 0 
+        
+
+    for(; numero <= 10; numero = numero +1){
+            document.write(numero+'<br>')
+
+        }
+
+
+        let entrada = prompt('digite o nome do Joao')
+for(;true;){
+    if(entrada == "joao"){
+        break
+    }
+    else{
+        entrada = prompt('digite o nome do Joao')
+    }
+}
+
+let numtabuada = Number(prompt('insira o valor da tabuada'))
+
+let multiplicador = 1
+
+// para incrementar a variavel com valor '+1' basta utilizar o '++' com a variavel
+// porem essa implementação só e valida para incrememtar o '+1'
+
+for(;multiplicador<=10; multiplicador ++){
+
+    document.write(numtabuada+'X'+multiplicador+'='+(numtabuada*multiplicador)+'<br>')
+}
+
+    </script>
+</body>
+</html>

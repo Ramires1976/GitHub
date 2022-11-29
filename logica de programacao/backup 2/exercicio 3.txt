@@ -1,0 +1,9 @@
+Execute em Javascript
+
+
+
+Crie um programa onde o mesmo pergunte ao usuário para inserir 2 numeros.Onde faça a soma desses 2 valores dentro de um laço While.
+O programa irá parar de perguntar e executar pela ultima vez quando voce passar o numero 0 em um dos valores solicitados ao usuário.
+
+
+Escreva o mesmo exercício em Laço FOR

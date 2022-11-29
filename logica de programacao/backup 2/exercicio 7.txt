@@ -1,0 +1,15 @@
+Executar em Javascript e Python:
+
+
+Escrever um programa Sinaleira:
+
+Peça para o usuário inserir em um input a cor da Sinaleira:
+
+
+Se escrever verde retorna: Pode passar
+
+Se escrever amarelo retorna : Atenção Vai Parar
+
+Se escrever vermelho retornar: Pare
+
+Se escrever qualquer outra coisa retorna o print escrito: Isso não é uma cor da sinaleira.

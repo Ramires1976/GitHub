@@ -1,0 +1,10 @@
+<h3> primeiro programa </h3>
+
+
+<script>
+
+
+alert('bem vindo a programação')
+
+
+</script>

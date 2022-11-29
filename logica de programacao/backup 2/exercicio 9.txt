@@ -1,0 +1,9 @@
+Execute em Javascript e em Python
+
+Crie um programa que passe 2 variáveis e faça a multiplicação dessas variáveis e imprima o resultado em tela. (Pode ser em POP-UP no caso do Javascript)
+
+Rescreva o mesmo programa do exercício anterior onde os produtos serão declarados através de variáveis.
+
+Segue o Algoritmo:
+
+Crie um programa que deve conter o valor de 3 Produtos faça a soma do valor desses produtos. E depois faça a média do valor desses produtos.

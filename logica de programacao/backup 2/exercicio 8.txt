@@ -1,0 +1,12 @@
+Executar em Javascript e Python
+
+
+Crie um programa que faça a multiplicação de 2 valores passando o inputs dos valores em variáveis.
+
+Crie um programa que valide se  2 números são maiores ou menores passando as condições no código. (O retorno será True ou False)
+
+Crie um programa que valide se 2 setenças são verdadeiros ou falsos utilizando operadores lógicos valide com AND e OR.
+
+Crie um programa que o usuário entre com o valor o mesmo retorne em tela. O tipo do valor deverá ser FLOAT.(EM PYTHON)
+
+Crie um programa que o usuário passe o valor de 3 notas e o mesmo calcule o total das notas e média das notas. Imprima em tela o total das notas e a média.

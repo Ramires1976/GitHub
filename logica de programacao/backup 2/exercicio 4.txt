@@ -1,0 +1,6 @@
+Faça em Javascript
+
+Escrever um programa que faça o incremento de 500 reais no valor final do salário sendo que o incremento será de 100 reais até totalizar os 500 reais.
+
+E você deve entrar com o valor do salário no input e o mesmo deve imprimir em tela os aumentos de salário com os incrementos de
+valores.

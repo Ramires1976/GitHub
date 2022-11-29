@@ -1,0 +1,27 @@
+<meta charset="UTF-8">
+
+<h3> Programa de Loteria</h3>
+
+<input type="text" id="numeroaposta" />
+<input type="submit" id="rodarloteria" value="Sortear!"/>
+
+
+
+<script>
+
+let numerossorteados = [16,34,37,42,50,58];
+let numapostado = document.getElementById("numeroaposta");
+
+function botaosortear() {
+for(let i = 0; i < numerossorteados.length; i = i + 1) {
+if(numerossorteados[i] == numapostado.value) {
+alert("Parabéns! Você acertou um dos " + "números Sorteados");
+return;
+} }
+alert("Infelizmente você não Ganhou!");
+}
+let botaosorteio = document.getElementById("rodarloteria");
+botaosorteio.onclick = botaosortear;
+
+
+</script>

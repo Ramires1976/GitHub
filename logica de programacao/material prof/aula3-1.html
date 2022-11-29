@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 3 Laços FOR</title>
+</head>
+<body>
+    <script>
+        // for ele possui tres espaços de construção
+        // for (start variavel ; condicao de execucao(true\false) ; incremento ou qtd de vezes de execucao)
+
+        let numero = 0 
+        // O Tipo de Variavel Global.
+        // È utilizada para todo o codigo (Acessivel para todos os itens)
+
+        // O Tipo de Variavel local é acessivel apenas no 
+        //contexto do bloco de codigo(Possui prioridade de execução)
+
+        for (let numero = 1; numero<=10 ; numero = numero +1){ 
+            document.write(numero+'<br>')
+        }
+
+        let entrada = prompt("Digite o Nome do João")
+        
+        for(;true;){
+            if(entrada == 'joao'){
+                break
+            }
+            else{
+                entrada = prompt("Digite o Nome do João")
+            }
+        }
+
+    let numtabuada = Number(prompt("Digite o Valor da Tabuada: "))
+    let multiplicador = 1
+
+    // Para incrementar a variavel com valor + 1 basta utilizar o ++ com a variavel
+    // Porém essa implementacao só e valida para incrementar +1
+
+    for(;multiplicador<=10;multiplicador ++ ){
+        document.write(numtabuada+"X"+multiplicador+"="+(numtabuada*multiplicador)+"<br>")
+    }
+
+
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,65 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 4</title>
+</head>
+<body>
+    <script>
+
+        // Trabalhando com Funções
+        // As função são blocos de código pre definidos onde é criado uma ação
+        // E sempre que precisar repetir bastar chamar a função
+        // Isso evitar digitar codigos de forma repetida
+
+        function quebralinha(){
+            document.write("<br>")
+        }
+
+        // Chamar a Função
+
+        document.write("Elon Musk Compro o Twitter so pra ele digitar mais de 140 caracteres")
+        quebralinha()
+        document.write("O Javascript é a Linguagem mais utlizada")
+        quebralinha()
+
+        // Funcao com Argumento(variaveis)
+
+        function soma(x,y){
+            return x + y
+        }
+
+        // chamando a funcao
+
+        alert(soma(4,5))
+
+
+        // Funcao dentro de outra função
+
+        function mostrafrase(texto){
+            document.write(texto)
+            quebralinha() // Chamando a funcao de quebra de linha
+            console.log(texto)
+        }
+
+        // Chamando a Função
+
+
+        mostrafrase("Essa é a Primeira Frase da Função")
+        mostrafrase("Essa é a segunda Frase da Função com Quebra de linha")
+
+        
+
+
+
+
+
+
+
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+Faça em JavaScript
+
+
+Exercicio 01
+Crie um algoritmo que pergunte 3 números ao usuário,
+coloque em um array e depois exiba o array com os números adicionados.
+
+
+Exercicio 2
+
+
+Esse exercício iremos criar um array com Strings e Outro com Números
+Sendo que o Array De Números a saída em console devera ser invertida comparado
+aos valores do Array.
+Ex: lista = 1,2 saida = 2,1
+
+
+E o Array de Strings deverá ser ordenado em ordem alfabética e a saída em
+tela.
+EX: lista = "Opala","Fusca" saida = "Fusca", "Opala"
+
+
+Para fazer isso devemos usar umas das propriedades do array. Em aula utilizamos
+lenght e o push. Você deverá pesquisar qual outras propriedades efetuam a modificação na lista
+
+
+
+
+Faça em Python
+
+
+Exercicio Listas
+
+
+Vamos criar uma lista de compras onde o usuário digita o produto que quer comprar. O produto digitado irá fazer parte dessa lista.
+Depois que o usuário digitou todos os produtos imprima o resultado dessa lista.

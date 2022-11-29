@@ -1,0 +1,8 @@
+Faça em Javascript e Em Python
+
+Criar um programa para um evento que só é permitido entrada para maiores de 18 anos.
+A pessoa deve informa a sua idade e o programa irá liberar a sua entrada ao evento ou não através de uma saída em tela e em pop-up no javascript
+
+
+Faça um programa que pergunte a hora ao usuário e, baseando-se no horário
+descrito, exiba a saudação apropriada. Ex. Bom dia 0-11, Boa tarde 12-17 e Boa noite 18-23.

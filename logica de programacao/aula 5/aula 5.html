@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt - BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>aula 5</title>
+</head>
+<body>
+    <script>
+
+    // arrays sao estruturas finitas. possuem indice de memoria
+    // sao mutaveis. podem ser homogeneos(mesmo tipo de dados) e heterogeneos ( tipos de dados) 
+
+    let carros = ['fiesta', 'gol', 'sandero', 'ferrari']
+
+    // capturar o valor pelo indice de memoria
+
+    alert(carros[2])
+
+    // laço FOR 
+
+    let frutas = ['banana', 'abacaxi', 'melao','uva']
+
+    for(f in frutas){
+        alert (frutas[f])
+    }
+
+    // tamanho do array com a funcao length
+
+    alert(carros.length)
+
+    // array ele e mutavel pode add ou remover elementos
+    // add com a funçao push
+
+    frutas.push('limao')
+
+    console.log(frutas)
+
+    // remover um elemento com a funcao pop(remove o ultimo elemento do array)
+
+    frutas.pop()
+
+    console.log(frutas)
+    
+    // remover o primeiro elemento com a funcao shift
+
+    frutas.shift()
+
+    console.log(frutas)
+
+    // remove um pedaço doarray com numero de itens especificados com a funcao splice
+
+    frutas.splice(2)
+
+    console.log(frutas)
+
+    
+
+
+    </script>
+</body>
+</html>
